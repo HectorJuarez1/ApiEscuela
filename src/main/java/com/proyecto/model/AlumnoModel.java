@@ -24,5 +24,6 @@ public class AlumnoModel implements Serializable {
     private String nacionalidad;
     private String fechaNacimiento;
     private String sexo;
+    private String tes;
 
 }
