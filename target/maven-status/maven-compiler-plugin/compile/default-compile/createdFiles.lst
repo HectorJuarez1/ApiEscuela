@@ -1,0 +1,12 @@
+com\proyecto\util\MensajeError.class
+com\proyecto\controller\AlumnoController.class
+com\proyecto\repository\AlumnoRepository.class
+com\proyecto\util\Cadenas.class
+com\proyecto\util\HttpStatusEnum.class
+com\proyecto\ApiEscuelaApplication.class
+com\proyecto\service\AlumnoService.class
+com\proyecto\util\ResponseHttp.class
+com\proyecto\service\IAlumnoService.class
+com\proyecto\ServletInitializer.class
+com\proyecto\controller\InicioController.class
+com\proyecto\model\AlumnoModel.class
